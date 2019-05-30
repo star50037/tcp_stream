@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vedio</string>
+    <string name="http_192_168_xxx_xxx_8090">http://192.168.xxx.xxx:8090</string>
+    <string name="connect">Connect</string>
+    <string name="back">back</string>
+    <string name="button">Button</string>
+</resources>
